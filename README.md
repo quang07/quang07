@@ -1,5 +1,5 @@
-# quang07
-<!-- quang07 -->
+# MrQ
+<!-- MrQ -->
 <a href="#" target="_blank">
   <img src="svg/MrQ.svg" width="1200" alt="quang07-official" />
 </a>
