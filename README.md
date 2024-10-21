@@ -101,7 +101,7 @@
   <strong>📧 Hoặc Email: <a href="qt7457307@gmail.com" target="_top">qt7457307@gmail.com</a></strong>
 </p>
 <a href="https://www.facebook.com/WUSTRANQUANG" target="_blank">
-  <img src="profile.png" width="1200" alt="MrQ-official" />
+  <img src="profile.jpeg" width="1200" alt="MrQ-official" />
 </a>
 
 <br>
