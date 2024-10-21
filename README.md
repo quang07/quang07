@@ -105,7 +105,7 @@
 </a>
 
 <br>
-<h2 align="center">💌 𝑴𝒚 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆𝒔 𝑸𝒖𝒐𝒕𝒆𝒔 💌</h2>
+<h2 align="center">💌 ILOVE YOU 💌</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/MrQ-quotes.svg" width="846" height="150" 
